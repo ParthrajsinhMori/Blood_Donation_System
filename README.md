@@ -13,6 +13,6 @@ Technology Used : HTML, PHP
 How to run this ?
 Follow this steps : 
 1. Download the Folder "Blood_Donation_System"
-2. Import "blood_donation_system.php"
+2. Import "blood_donation_system.sql"
 3. Run "index.php" on browser by using localhost/Blood_Donation_System/index.php
    
