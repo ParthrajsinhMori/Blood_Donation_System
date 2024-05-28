@@ -27,16 +27,16 @@ SET time_zone = "+00:00";
 -- Table structure for table `forgot_password`
 --
 
-CREATE TABLE `forgot_password` (
-  `user_email` varchar(50) NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+-- CREATE TABLE `forgot_password` (
+--   `user_email` varchar(50) NOT NULL
+-- ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 
---
--- Dumping data for table `forgot_password`
---
+-- --
+-- -- Dumping data for table `forgot_password`
+-- --
 
-INSERT INTO `forgot_password` (`user_email`) VALUES
-('hi@gmail.com');
+-- INSERT INTO `forgot_password` (`user_email`) VALUES
+-- ('hi@gmail.com');
 
 -- --------------------------------------------------------
 
